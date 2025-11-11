@@ -172,11 +172,11 @@ section{
 
 }
 
-.icon-container1 img {
+  /* Estilo para los iconos individuales */
+  .icon-container1 img {
     width: 50px; 
     height: 50px; 
     margin-right: 25px; 
-
 }
 
 footer{
