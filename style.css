@@ -172,9 +172,19 @@ section{
 
 }
 
-  /* Estilo para los iconos individuales */
-  .icon-container1 img {
+.icon-container1 img {
     width: 50px; 
     height: 50px; 
     margin-right: 25px; 
+}
+
+footer{
+  background-color: #0D1B2A;
+  width: 100%;
+  height: 120px;
+  color: #415A77;
+  text-align: center;
+  font-family: "popins" sans-serif;
+  letter-spacing: 1px;
+  padding-top: 40px;
 }
